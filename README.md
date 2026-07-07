@@ -1,2 +1,28 @@
-# db3ae7ed0ececc37-devops-infra-employee-training
-Every DevOps engineers and platform teams needs this — most just don't know it yet.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Devops Infra Employee Training Portal — fully configured and ready to use - Pre-built da
+# Devops Infra Employee Training Portal Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/9B6eVdeTt4sc6xyavOcZG3M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/9B6eVdeTt4sc6xyavOcZG3M)
+
